@@ -1,0 +1,4 @@
+beautifulsoup4
+requests
+pyrss2gen
+ftfy
